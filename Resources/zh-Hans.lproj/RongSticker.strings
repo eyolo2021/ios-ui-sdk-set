@@ -6,12 +6,22 @@
   Copyright © 2018年 RongCloud. All rights reserved.
 */
 
-"back"="返回";
-"my_stickers"="我的表情";
-"delete_title"="移除";
-"download_package"="已下载的表情";
-"begin_download"="下载";
-"package_list_empty"="可在表情推荐面板中，获取动态表情";
-"loadingfailed"="加载失败";
-"download_failed_alert"="\"%@\" 未下载成功，请重试。";
-"confirm"="确认";
+//"back"="返回";
+//"my_stickers"="我的表情";
+//"delete_title"="移除";
+//"download_package"="已下载的表情";
+//"begin_download"="下载";
+//"package_list_empty"="可在表情推荐面板中，获取动态表情";
+//"loadingfailed"="加载失败";
+//"download_failed_alert"="\"%@\" 未下载成功，请重试。";
+//"confirm"="确认";
+
+"back"="Back";
+"my_stickers"="My Stickers";
+"delete_title"="Remove";
+"download_package"="Added Stickers";
+"begin_download"="Get";
+"package_list_empty"="No Get Stickers";
+"loadingfailed" = "Fail To Load";
+"download_failed_alert"="Unable to download \"%@\". Try again.";
+"confirm"="Confirm";

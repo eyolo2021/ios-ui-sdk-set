@@ -6,12 +6,22 @@
   Copyright © 2018年 RongCloud. All rights reserved.
 */
 
-"back"="عودة";
-"my_stickers"="ملصقاتي";
-"delete_title"="إزالة";
-"download_package"="ملصقات تم تنزيلها";
-"begin_download"="تحميل";
-"package_list_empty"="يمكنك الحصول على رموز ديناميكية في لوحة توصية الرموز التعبيرية";
-"loadingfailed"="فشل التحميل";
-"download_failed_alert"="  يرجى المحاولة مرة أخرى لاحقا بسبب فشل \"%@\"في التحميل";
-"confirm"="تأكيد";
+//"back"="عودة";
+//"my_stickers"="ملصقاتي";
+//"delete_title"="إزالة";
+//"download_package"="ملصقات تم تنزيلها";
+//"begin_download"="تحميل";
+//"package_list_empty"="يمكنك الحصول على رموز ديناميكية في لوحة توصية الرموز التعبيرية";
+//"loadingfailed"="فشل التحميل";
+//"download_failed_alert"="  يرجى المحاولة مرة أخرى لاحقا بسبب فشل \"%@\"في التحميل";
+//"confirm"="تأكيد";
+
+"back"="Back";
+"my_stickers"="My Stickers";
+"delete_title"="Remove";
+"download_package"="Added Stickers";
+"begin_download"="Get";
+"package_list_empty"="No Get Stickers";
+"loadingfailed" = "Fail To Load";
+"download_failed_alert"="Unable to download \"%@\". Try again.";
+"confirm"="Confirm";
